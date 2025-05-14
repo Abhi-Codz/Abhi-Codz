@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="center">The Languages in Progression of Learning</h3>
+<h3 align="center">The Languages & Tools in Progression of Learning</h3>
 
 ###
 
@@ -41,6 +41,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
@@ -59,6 +65,6 @@
 
 ###
 
-<h4 align="center">"Philo, with twelve years' study hath been grieved,<br>To be understood, when will he be believed?"<br>-John Donne</h4>
+<h4 align="center">"This is due to his association with that material nature. <br>Thus he meets with good and evil amongst various species."</h4>
 
 ###
