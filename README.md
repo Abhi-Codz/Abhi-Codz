@@ -11,7 +11,7 @@
 
 ###
 
-<h3 align="center">Social Networking Service (SNS) - Platform</h3>
+<h3 align="center">Social Networking Sites (SNS) - Platform</h3>
 
 ###
 
